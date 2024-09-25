@@ -4,11 +4,11 @@ tinggimeter = tinggibadan / 100
 total = beratbadan / (tinggimeter * tinggimeter)
 
 if total < 18.5 :
-    print ("bmi : Underweight") 
+    print ("bmi = Underweight") 
 elif total < 24.9 :
-    print ("bmi : Normal")
+    print ("bmi = Normal")
 elif total < 29.9 :
-    print ("overweight")
+    print ("bmi = overweight")
 else :
-    print ("obesitas")
+    print ("bmi = obesitas")
     
