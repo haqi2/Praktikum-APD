@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="cZQRqpb-vK4REhXmNuC6">
+    <mxGraphModel dx="1750" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-1" target="nI6B3RcLwpWOy5-rcKPA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-1" value="Mulai" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="376" y="20" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-2" target="nI6B3RcLwpWOy5-rcKPA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-2" value="Percobaan Login ke" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="639.5" y="462" width="230" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-3" target="nI6B3RcLwpWOy5-rcKPA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-3" value="Masukkan Username dan Password" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="120" width="236" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="599.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-4" target="nI6B3RcLwpWOy5-rcKPA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-4" value="Username &amp; Password Benar?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="250" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-5" value="Login Berhasil" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="603" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-6" value="Login Gagal, Tambah Percobaan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="347" width="209" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-7" value="Anda telah gagal login 3 kali, Program Berhenti" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="638" y="570" width="233" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="nI6B3RcLwpWOy5-rcKPA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nI6B3RcLwpWOy5-rcKPA-3" target="nI6B3RcLwpWOy5-rcKPA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
